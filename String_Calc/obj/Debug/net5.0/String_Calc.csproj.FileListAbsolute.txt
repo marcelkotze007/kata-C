@@ -1,0 +1,12 @@
+D:\Personal code\Kata\kata-C\String_Calc\bin\Debug\net5.0\String_Calc.deps.json
+D:\Personal code\Kata\kata-C\String_Calc\bin\Debug\net5.0\String_Calc.dll
+D:\Personal code\Kata\kata-C\String_Calc\bin\Debug\net5.0\ref\String_Calc.dll
+D:\Personal code\Kata\kata-C\String_Calc\bin\Debug\net5.0\String_Calc.pdb
+D:\Personal code\Kata\kata-C\String_Calc\obj\Debug\net5.0\String_Calc.csproj.AssemblyReference.cache
+D:\Personal code\Kata\kata-C\String_Calc\obj\Debug\net5.0\String_Calc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal code\Kata\kata-C\String_Calc\obj\Debug\net5.0\String_Calc.AssemblyInfoInputs.cache
+D:\Personal code\Kata\kata-C\String_Calc\obj\Debug\net5.0\String_Calc.AssemblyInfo.cs
+D:\Personal code\Kata\kata-C\String_Calc\obj\Debug\net5.0\String_Calc.csproj.CoreCompileInputs.cache
+D:\Personal code\Kata\kata-C\String_Calc\obj\Debug\net5.0\String_Calc.dll
+D:\Personal code\Kata\kata-C\String_Calc\obj\Debug\net5.0\ref\String_Calc.dll
+D:\Personal code\Kata\kata-C\String_Calc\obj\Debug\net5.0\String_Calc.pdb
